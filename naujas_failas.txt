@@ -1,2 +1,3 @@
 Pirmas mano Git įrašas. 
 Atnaujinta dokumentacija.
+Nauja eilutė.
